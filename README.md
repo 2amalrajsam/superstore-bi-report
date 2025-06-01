@@ -9,15 +9,25 @@ This repository showcases an end-to-end Business Intelligence report project usi
 - **Sales Performance**: Regional and customer-level revenue analysis with drill-through to category and/ or market-level insights.
 - **Product Analysis**: Profit trends by category and product-level revenue. Can be filtered by category and subcategory using slicers. User can drill through to view order level details.
 - **Shipping & Operations**: Evaluation of shipping cost vs. profit by mode; strategic insights into cost-effective logistics.
-- **Order Drilldown**: Interactive table for detailed order-level analysis with filters and drill-through capabilities.
+- **Order level drill through**: Interactive table for detailed order-level analysis with filters and drill-through capabilities.
 
 ## Concepts Demonstrated
-- DAX measures including time intelligence (e.g., YTD, YoY%, filter context modification, dynamic visibility)
-- Drill-through navigation and conditional buttons
-- Interactive visuals (scatter plots, bar/line charts, matrix tables)
-- Data storytelling and insights
-- Dashboard design best practices (minimal tabs, clean layout)
-- Row level security- Organization leaders can view metrics only for their respective markets
+- 
+- **Data Modeling**: Star schema design, relationships, and data transformation using Power Query (eg. Merge Query, Column Profiling etc.)
+- **DAX Measures**:
+  - Time Intelligence: YTD, YoY%
+  - Context filter manipulation
+- **Interactive Reporting**:
+  - Drill-through pages and conditional navigation buttons
+  - Slicers and tooltips for enhanced UX
+- **Row-Level Security (RLS)**:
+  - Role-based access for regional leaders
+- **Visual Design Best Practices**:
+  - Clean layout, minimal tabs, consistent color scheme
+  - KPI cards, matrix tables, scatter plots etc.
+- **Data Storytelling**:
+  - Executive summary with actionable insights
+  - Clear narrative flow from overview to granular detail
 
 ## Tools Used
 - Power BI (Data modeling, DAX, visualization)
