@@ -35,10 +35,10 @@ This repository showcases an end-to-end Business Intelligence report project usi
 - Superstore dataset (modified)
 
 ## Viewing the Report
-To view the report:
-1. Clone this repository to your local machine.
-2. Open the `.pbix` file in Power BI Desktop.
-3. Explore the various tabs and interactive features.
+This project is shared as static report views to demonstrate key Business Intelligence concepts without requiring Power BI Desktop.
+Available Files
+My project_Amal Raj (PDF): A visual summary of sales, product performance, and shipping operations as aforementioned.
+My project Drill Through & RLS (Docx): A walkthrough of advanced features, specifically Drill-through navigation and Row-Level Security (RLS).
 
 ## Contact
 For any questions or further information, please contact 2amalrajsam@gmail.com.
